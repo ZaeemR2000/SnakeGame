@@ -24,7 +24,7 @@ public class GamePanel extends JPanel implements ActionListener{
     Random random;
 
     GamePanel(){
-
+        //okay cool
         random = new Random();
         this.setPreferredSize(new Dimension(SCREEN_WIDTH, SCREEN_HEIGHT));
         this.setBackground(Color.black);
